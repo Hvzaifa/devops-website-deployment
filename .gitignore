@@ -1,0 +1,8 @@
+# Ignore private key files
+*.pem
+# Explicit ignore for known key
+devops-key.pem
+
+# Node / OS / editor files (optional)
+.DS_Store
+node_modules/
